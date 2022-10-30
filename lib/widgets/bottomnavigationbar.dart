@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:managment/Screens/add.dart';
 import 'package:managment/Screens/home.dart';
 import 'package:managment/Screens/statistics.dart';
 
@@ -17,7 +18,10 @@ class _BottomState extends State<Bottom> {
     return Scaffold(
       body: Screen[index_color],
       floatingActionButton: FloatingActionButton(
-        onPressed: () {},
+        onPressed: () {
+          Navigator.of(context)
+              .push(MaterialPageRoute(builder: (context) => Add_Screen()));
+        },
         child: Icon(Icons.add),
         backgroundColor: Color(0xff368983),
       ),
