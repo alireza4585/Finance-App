@@ -1,6 +1,6 @@
 # Finance App
 
-this project i creat an awesome  Finance App Ui 
+this project i creat an awesome  Finance App UI and backend
 
 tutorial :
 https://youtu.be/Bedjr7jzOw8
