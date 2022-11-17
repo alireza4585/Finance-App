@@ -3,7 +3,7 @@
 this project i creat an awesome  Finance App UI and backend
 
 tutorial :
-https://youtu.be/Bedjr7jzOw8
+https://www.youtube.com/watch?v=9-QFt-cWZV8&ab_channel=flutterskills
 
 ## home_page:
 ![](https://user-images.githubusercontent.com/102475069/196632952-349c0bf9-a0a2-45d2-a0c1-3f7e34dd823c.png)
